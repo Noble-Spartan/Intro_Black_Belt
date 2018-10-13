@@ -14,3 +14,5 @@ git push origin master
 git branch "some name"
 	-branch: It's a specific location to request
 	-"some name": Call it whatever you'd like "YourNameBranch"
+git status
+	- status: shows status of files within directory
