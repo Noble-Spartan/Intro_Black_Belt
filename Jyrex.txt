@@ -1,0 +1,16 @@
+Hello I am your leader
+
+git add . // This adds all files into queue
+	- ".": or "A": All files
+	- "name of a file": A specific file
+git commit -m"my message"
+	- commit: a commitment to be added
+	- -m"": send message by text format
+	- "my message": What you're trying to push
+git push origin master
+	- pull: request to pull items within repository
+	- origin: specific location
+	- master: the main branch
+git branch "some name"
+	-branch: It's a specific location to request
+	-"some name": Call it whatever you'd like "YourNameBranch"
