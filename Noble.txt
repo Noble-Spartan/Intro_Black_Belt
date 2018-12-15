@@ -1,4 +1,4 @@
-Hello I am your leader
+Hello I am your leader-
 
 git add . // This adds all files into queue
 	- ".": or "A": All files
